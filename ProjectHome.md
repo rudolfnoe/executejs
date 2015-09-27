@@ -1,0 +1,1 @@
+Execute JS is Firefox-Extension which provides an enhanced JavaScript-Console, where you can comfortably enter and execute arbitrary JavaScript-Code and modify functions.
